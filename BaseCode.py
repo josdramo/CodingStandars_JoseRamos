@@ -64,7 +64,7 @@ class Student:
 
 
 def start_run():
-    s = Student("12", "José Ramos")
+    s = Student("1", "José Ramos")
     s.add_grade(100)
     s.add_grade(85)
     s.add_grade(150)     # Ignored
